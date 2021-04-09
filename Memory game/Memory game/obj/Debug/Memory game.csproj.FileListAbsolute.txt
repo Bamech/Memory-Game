@@ -1,0 +1,9 @@
+C:\Users\Dom\Desktop\C# Projekty\Memory game\Memory game\Memory game\bin\Debug\Memory game.exe.config
+C:\Users\Dom\Desktop\C# Projekty\Memory game\Memory game\Memory game\bin\Debug\Memory game.exe
+C:\Users\Dom\Desktop\C# Projekty\Memory game\Memory game\Memory game\bin\Debug\Memory game.pdb
+C:\Users\Dom\Desktop\C# Projekty\Memory game\Memory game\Memory game\obj\Debug\Memory game.csprojResolveAssemblyReference.cache
+C:\Users\Dom\Desktop\C# Projekty\Memory game\Memory game\Memory game\obj\Debug\Memory_game.Properties.Resources.resources
+C:\Users\Dom\Desktop\C# Projekty\Memory game\Memory game\Memory game\obj\Debug\Memory game.csproj.GenerateResource.Cache
+C:\Users\Dom\Desktop\C# Projekty\Memory game\Memory game\Memory game\obj\Debug\Memory game.exe
+C:\Users\Dom\Desktop\C# Projekty\Memory game\Memory game\Memory game\obj\Debug\Memory game.pdb
+C:\Users\Dom\Desktop\C# Projekty\Memory game\Memory game\Memory game\obj\Debug\Memory_game.Form1.resources
